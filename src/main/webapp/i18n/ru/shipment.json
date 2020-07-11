@@ -1,0 +1,24 @@
+{
+  "simpleShopApp": {
+    "shipment": {
+      "home": {
+        "title": "Shipments",
+        "createLabel": "Создать новый Shipment",
+        "createOrEditLabel": "Создать или отредактировать Shipment",
+        "notFound": "No Shipments found"
+      },
+      "created": "Новый Shipment создан с идентификатором {{ param }}",
+      "updated": "Shipment обновлен с идентификатором {{ param }}",
+      "deleted": "Shipment удален с идентификатором {{ param }}",
+      "delete": {
+        "question": "Вы уверены что хотите удалить Shipment {{ id }}?"
+      },
+      "detail": {
+        "title": "Shipment"
+      },
+      "shippedAt": "Shipped At",
+      "order": "Order",
+      "shippedBy": "Shipped By"
+    }
+  }
+}

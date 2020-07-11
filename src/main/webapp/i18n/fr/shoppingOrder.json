@@ -1,0 +1,27 @@
+{
+  "simpleShopApp": {
+    "shoppingOrder": {
+      "home": {
+        "title": "ShoppingOrders",
+        "createLabel": "Créer un nouveau Shopping Order",
+        "createOrEditLabel": "Créer ou éditer un Shopping Order",
+        "notFound": "Aucun Shopping Order trouvé"
+      },
+      "created": "Un nouveau Shopping Order a été créé avec l'identifiant {{ param }}",
+      "updated": "Le Shopping Order avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le Shopping Order avec l'identifiant {{ param }} a été supprimé",
+      "delete": {
+        "question": "Etes-vous certain de vouloir supprimer le Shopping Order {{ id }} ?"
+      },
+      "detail": {
+        "title": "Shopping Order"
+      },
+      "name": "Name",
+      "totalAmount": "Total Amount",
+      "ordered": "Ordered",
+      "orders": "Orders",
+      "buyer": "Buyer",
+      "shipment": "Shipment"
+    }
+  }
+}
